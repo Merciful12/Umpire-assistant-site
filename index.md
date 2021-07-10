@@ -9,7 +9,6 @@
 [iOS](https://apps.apple.com/us/app/umpire-assistant/id1576055924)
 
 [Android](https://play.google.com/store/apps/details?id=com.lidia.taekwondo_app)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Поддержка
 
